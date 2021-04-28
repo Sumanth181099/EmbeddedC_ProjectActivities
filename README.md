@@ -8,6 +8,11 @@ Embedded C Programming Project
 |OFF|
 ![LED_OFF](https://user-images.githubusercontent.com/65185434/116271075-48527680-a79d-11eb-93cd-c63da5171593.JPG)
 
+
+# Timer, PWM and USART based communication
+![EmC](https://user-images.githubusercontent.com/65185434/116447329-7dca9300-a875-11eb-9d52-1faae309af9c.JPG)
+
+
 #### CI and Code Quality
 
 |Build|Cppcheck|
