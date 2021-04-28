@@ -11,6 +11,7 @@ Embedded C Programming Project
 
 # Timer, PWM and USART based communication
 ![EmC](https://user-images.githubusercontent.com/65185434/116447329-7dca9300-a875-11eb-9d52-1faae309af9c.JPG)
+![EmC1](https://user-images.githubusercontent.com/65185434/116450026-6f31ab00-a878-11eb-81f4-4130bc9663ae.JPG)
 
 
 #### CI and Code Quality
